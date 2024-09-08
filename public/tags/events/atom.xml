@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Events</title>
+    <link rel="self" type="application/atom+xml" href="https://GrantsPassEmployeeAssociation.github.io/tags/events/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://GrantsPassEmployeeAssociation.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-08T00:00:00+00:00</updated>
+    <id>https://GrantsPassEmployeeAssociation.github.io/tags/events/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Event Calendar</title>
+        <published>2024-09-08T00:00:00+00:00</published>
+        <updated>2024-09-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://GrantsPassEmployeeAssociation.github.io/events/"/>
+        <id>https://GrantsPassEmployeeAssociation.github.io/events/</id>
+        
+        <content type="html" xml:base="https://GrantsPassEmployeeAssociation.github.io/events/">&lt;iframe src=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;calendar&#x2F;embed?height=600&amp;wkst=1&amp;ctz=America%2FLos_Angeles&amp;bgcolor=%23ffffff&amp;src=NzZiMjM2MWRiZTZjOWZmZjAyZTc2YzhjYmRkM2Y0NDYwZjAwNWU2ZGU0ZDI2YmZiNzBjNzhiZTM4YWNkYjY4N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&quot; style=&quot;border:solid 1px #777&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;&#x2F;iframe&gt;
+</content>
+        
+    </entry>
+</feed>

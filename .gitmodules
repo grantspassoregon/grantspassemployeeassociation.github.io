@@ -1,0 +1,4 @@
+[submodule "themes/deep_thought"]
+	path = themes/deep_thought
+	url = git@github.com:RatanShreshtha/DeepThought
+	branch = main
