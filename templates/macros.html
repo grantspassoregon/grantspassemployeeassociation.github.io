@@ -192,7 +192,25 @@
   {% endif %}
 
 <!-- Feeds -->
-{% if config.generate_feeds %}{% for feed in config.feed_filenames %}<link rel="alternate" type={% if feed == "atom.xml" %}"application/atom+xml"{% else %}"application/rss+xml"{% endif %} title="RSS" href="{{ get_url(path=feed) | safe }}">{% endfor %}{% endif %}
+{% if config.generate_feeds %}
+  <a class="has-text-rss" href="{{ config.base_url }}/atom.xml" target="_blank">
+    <span class="icon is-large" title="RSS Feed">
+      <i class="fas fa-rss fa-lg"></i>
+    </span>
+  </a>
+  <!-- {% for feed in config.feed_filenames %} -->
+  <!-- <a class="has-text-rss" href="{{ config.base_url }}/{{ feed }}" target="_blank"> -->
+  <!--   <span class="icon is-large" title={% if feed == "atom.xml" %} -->
+  <!--   "Atom Feed" -->
+  <!--     {% else %} -->
+  <!--   "RSS Feed" -->
+  <!--     {% endif %}> -->
+  <!--     <i class="fas fa-rss fa-lg"></i> -->
+  <!--   </span> -->
+  <!-- </a> -->
+  <!-- {% endfor %} -->
+{% endif %}
+</p>
 {% endmacro %}
 
 {% macro page_publish_metadata(page) %}
