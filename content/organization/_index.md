@@ -20,7 +20,7 @@ Goals here.
 ## Governance ##
 
 * Link to Constitution.
-* Link to [Bylaws](./bylaws.md).
+* Link to [Bylaws](./bylaws).
 
 ## History ##
 
