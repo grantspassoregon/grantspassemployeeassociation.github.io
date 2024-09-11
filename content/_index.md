@@ -8,3 +8,5 @@ title = "Grants Pass Employee Association Homepage"
 # Welcome to the GPEA!
 
 The Grants Pass Employee Association represents employee interests as a bargaining unit with the City of Grants. 
+
+This site is still UNDER CONSTRUCTION.
