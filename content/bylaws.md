@@ -1,4 +1,15 @@
-# CITY OF GRANTS PASS EMPLOYEE ASSOCIATION BYLAWS
++++
+title = "CITY OF GRANTS PASS EMPLOYEE ASSOCIATION BYLAWS"
+date = "2024-09-10"
+
+[taxonomies]
+categories = ["Organization"]
+tags = ["Governance"]
+
+[extra]
+author = "Erik Rose"
++++
+
 
 ## ARTICLE 1 - NAME AND OBJECTIVE
 
