@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title> - Events</title>
+      <link>https://grantspassemployeeassociation.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://grantspassemployeeassociation.github.io/tags/events/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Event Calendar</title>
+          <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://grantspassemployeeassociation.github.io/events/</link>
+          <guid>https://grantspassemployeeassociation.github.io/events/</guid>
+          <description xml:base="https://grantspassemployeeassociation.github.io/events/">&lt;iframe src=&quot;https:&#x2F;&#x2F;calendar.google.com&#x2F;calendar&#x2F;embed?height=600&amp;wkst=1&amp;ctz=America%2FLos_Angeles&amp;bgcolor=%23ffffff&amp;src=NzZiMjM2MWRiZTZjOWZmZjAyZTc2YzhjYmRkM2Y0NDYwZjAwNWU2ZGU0ZDI2YmZiNzBjNzhiZTM4YWNkYjY4N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23F4511E&quot; style=&quot;border:solid 1px #777&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;&#x2F;iframe&gt;
+</description>
+      </item>
+    </channel>
+</rss>

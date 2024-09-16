@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - Values</title>
+    <link rel="self" type="application/atom+xml" href="https://grantspassemployeeassociation.github.io/tags/values/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://grantspassemployeeassociation.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-10T00:00:00+00:00</updated>
+    <id>https://grantspassemployeeassociation.github.io/tags/values/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Organization</title>
+        <published>2024-09-10T00:00:00+00:00</published>
+        <updated>2024-09-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://grantspassemployeeassociation.github.io/organization/"/>
+        <id>https://grantspassemployeeassociation.github.io/organization/</id>
+        
+        <content type="html" xml:base="https://grantspassemployeeassociation.github.io/organization/">&lt;h2 id=&quot;vision&quot;&gt;Vision&lt;&#x2F;h2&gt;
+&lt;p&gt;Vision statement here.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;mission&quot;&gt;Mission&lt;&#x2F;h2&gt;
+&lt;p&gt;Mission statement here.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;&#x2F;h2&gt;
+&lt;p&gt;Goals here.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;governance&quot;&gt;Governance&lt;&#x2F;h2&gt;
+&lt;p&gt;The governing body of the GPEA includes the Executive Board, consisting of the President, Vice President, Secretary and Treasurer, as well as the members who participate in meetings, voicing their priorities and voting on official business.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Link to &lt;a href=&quot;..&#x2F;constitution&quot;&gt;Constitution&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Link to &lt;a href=&quot;..&#x2F;bylaws&quot;&gt;Bylaws&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;meetings&quot;&gt;Meetings&lt;&#x2F;h3&gt;
+&lt;p&gt;There are two forms of official meetings in which all members are free to participate:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;General meetings - Regularly scheduled meetings for conducting official GPEA business.&lt;&#x2F;li&gt;
+&lt;li&gt;Special meetings - Called irregularly by the President, Board or 20% of the membership.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The Executive Board may hold closed meetings for discussion of GPEA affairs, but may not conduct official business&lt;&#x2F;p&gt;
+&lt;p&gt;In order to conduct official business, meetings require a quorum equal to 20% of all members.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;history&quot;&gt;History&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Established in year.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

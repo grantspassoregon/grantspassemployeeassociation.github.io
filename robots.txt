@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://grantspassemployeeassociation.github.io/sitemap.xml

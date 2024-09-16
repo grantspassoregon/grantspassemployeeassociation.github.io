@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title> - Benefits</title>
+      <link>https://grantspassemployeeassociation.github.io</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://grantspassemployeeassociation.github.io/tags/benefits/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Executive Officers to Meet Sept. 11 at noon</title>
+          <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://grantspassemployeeassociation.github.io/news/events-20240908/</link>
+          <guid>https://grantspassemployeeassociation.github.io/news/events-20240908/</guid>
+          <description xml:base="https://grantspassemployeeassociation.github.io/news/events-20240908/">&lt;p&gt;The Executive Officers will be meeting at noon on Sept. 11 to discuss the upcoming meeting with management on the topic of insurance benefits.&lt;&#x2F;p&gt;
+&lt;p&gt;Additional topics include:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Scheduling regular meetings for the remainder of the term.&lt;&#x2F;li&gt;
+&lt;li&gt;Scheduling an election date for the upcoming term.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>Insurance Meeting Scheduled for Sept. 12</title>
+          <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://grantspassemployeeassociation.github.io/news/events-20240907/</link>
+          <guid>https://grantspassemployeeassociation.github.io/news/events-20240907/</guid>
+          <description xml:base="https://grantspassemployeeassociation.github.io/news/events-20240907/">&lt;p&gt;City management has invited GPEA to participate in a meeting on Sept. 12 to discuss insurance benefits.  The president will be attending representing GPEA.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
