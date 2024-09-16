@@ -22,6 +22,7 @@ author = "Erik Rose"
 * [Article 7 - Meetings](#article-7)
 * [Article 8 - Limitations](#article-8)
 * [Article 9 - Amendments](#article-9)
+* [Exhibit A - Optional Dues Language](#exhibit-a)
 
 ## ARTICLE 1 - NAME AND OBJECTIVE<a id="article-1"></a>
 
@@ -319,3 +320,21 @@ The Bylaws of the Association may be amended by a majority vote of those present
 ### Section B<a id="article-9-section-b"></a>
 
 Any proposed amendment to the Bylaws shall be presented to the Secretary in writing not less than twenty (20) days before an Association meeting.  The Secretary shall supply copies of the proposed amendment to each member of the Association and Executive Board.
+
+## EXHIBIT A - OPTIONAL DUES LANGUAGE<a id="exhibit-a"></a>
+
+### Section A<a id="exhibit-a-section-a"></a>
+
+The dues for regular members of this Association shall be set by a majority vote of the Association at whatever level is necessary to maintain membership in a Union or to retain private legal counsel.  All dues reflecting the amount necessary to maintain membership in the Union or private legal counsel will be paid by the Association to the Union or law firm within ten (10) days of the receipt thereof.
+
+### Section B<a id="exhibit-a-section-b"></a>
+
+Dues shall be payable bi-weekly by payroll deduction where this is available or may be paid quarterly, semi-annually or annually in advance to the Association.
+
+### Section C<a id="exhibit-a-section-c"></a>
+
+Members on an authorized non-paid leave of absence from their employment may be excused from paying dues.  Such person excused from paying dues shall retain full membership rights and shall be automatically reinstated to active status upon their return from such leave.
+
+### Section D<a id="exhibit-a-section-d"></a>
+
+Members who fail to pay their dues or assessments within 10 days of the due date shall be notified of such delinquency by the Secretary or Treasurer of the Association and will be automatically suspended and lose their good standing if payment is not made within sixty (60) days following such notification.  Delinquent and suspended members are not entitled to voice or vote in the Association.  Fair-share members of the Association shall not be entitled to voice or vote in the Association.
