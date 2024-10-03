@@ -53,7 +53,7 @@ Email: <a href=mailto:danderson@grantspassoregon.gov>danderson@grantspassoregon.
 
 ---
 
-<img src=/content/jamesconway_portrait.png alt="James Conway Portrait" width="200">
+<img src=/content/jamesconway_portrait.jpg alt="James Conway Portrait" width="200">
 
 \
 **James Conway - Secretary**\
